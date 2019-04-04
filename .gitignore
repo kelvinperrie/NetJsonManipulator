@@ -1,0 +1,6 @@
+
+.vs/*
+NetJsonManipulator.Tests/bin/*
+NetJsonManipulator.Tests/obj/*
+NetJsonManipulator/bin/*
+NetJsonManipulator/obj/*
